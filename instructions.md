@@ -70,14 +70,14 @@ General-purpose assembly instructions:
 | Instruction | Description |
 |--|--|
 JMP \# | Unconditional Jump |
-JMP \* | Unconditional Jump |
+JMP \$ | Unconditional Jump |
 JF \# | Jump forward |
-JF \* | Jump forward |
+JF \$ | Jump forward |
 JB \# | Jump backwards |
-JB \* | Jump backwards |
+JB \$ | Jump backwards |
 JT \# | Conditional jump |
-JT \* | Conditional jump |
+JT \$ | Conditional jump |
 JTF \# | Conditional Jump forward |
-JTF \* | Conditional Jump forward |
+JTF \$ | Conditional Jump forward |
 JTB \# | Conditional Jump backwards |
-JTB \* | Conditional Jump backwards |
+JTB \$ | Conditional Jump backwards |
