@@ -59,7 +59,7 @@ General-purpose assembly instructions:
 | Instruction | Description |
 |--|--|
 | EQ $ $ | Equality of two register |
-| NEQ $ $ 
+| NEQ $ $ | Inequality of two registers |
 | LT $ $ | First register is less than the second instruction |
 | LEQ $ $ | First register is less than the second instruction |
 | GT $ $ | First register is greater than the second instruction |
