@@ -40,6 +40,8 @@ General-purpose assembly instructions:
 | MUL $ | Multiply the accumulator |
 | DIV $ | Divide the accumulator |
 | MOD $ | Put remainder into accumulator |
+| INC | Increments the accumulator by 1 |
+| DEC | DECREMENTS the accumulator by 1 |
 
 ## Bit Operations
 
